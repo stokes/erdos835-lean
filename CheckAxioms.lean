@@ -1,0 +1,6 @@
+import Erdos835Proof
+#print axioms Erdos835Proof.johnson_chromaticNumber_composite
+#print axioms Erdos835Proof.property_iff_chromaticNumber
+#print axioms Erdos835Proof.not_property_of_not_prime
+#print axioms Erdos835Proof.johnson_chromaticNumber_odd
+#print axioms Erdos835Proof.johnsonGraph_18_9_chromaticNumber

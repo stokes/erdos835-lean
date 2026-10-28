@@ -1,0 +1,10 @@
+name = "erdos835"
+defaultTargets = ["Erdos835Proof"]
+
+[[require]]
+name = "formal_conjectures"
+git = "https://github.com/google-deepmind/formal-conjectures"
+rev = "5a2fb85045c86e4a184b15ce7531ba199a3c4580"
+
+[[lean_lib]]
+name = "Erdos835Proof"
